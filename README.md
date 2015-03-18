@@ -10,7 +10,7 @@
 
 2 guest machines (A and B) running on the same XenServer host. 
 A receiving traffic from a packet generator at rates of 1250, 2500, 5000, 7500, 10000, and 20000pps.
-B receiving traffic from a different packet generator at rates of 1250, 2500, 5000, 7500, 10000, and 20000pp.
+B receiving traffic from a different packet generator at rates of 1250, 2500, 5000, 7500, 10000, and 20000pps.
 XenServer host is also measured.
 
 ## 3rd Test - Two VMs with Traffic Deflection
